@@ -10,7 +10,7 @@ The project focuses on taking an Iris flower dataset and building a predictive m
 
 * **Objective:**
 * load data, Identify feacture and targe variables, Modeling, evaluacion, prediction, conclussion, and apply Python prediction libraries
-*             — using both linear and polynomial regression—to generate predictive data.
+*             — using Naive_Bayes_Classification.
 * **Dataset Used:** 'iris' from sns.load_dataset
 * **Target Variable:** Target Variable: X = iris[['sepal_length', 'sepal_width', 'petal_length', 'petal_width']].values
 *                                       y = iris['species'].values
